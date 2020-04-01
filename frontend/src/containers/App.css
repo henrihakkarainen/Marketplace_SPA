@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+body {
+  position: relative;
+  background-image: url('../background_img.jpg');
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
