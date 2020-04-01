@@ -70,14 +70,15 @@ Server is started with nodemon, so if any changes are made to the code, the serv
     
     `$ npm run build` - creates a production build of the React application
 
-4. `Vagrantfile` is provided. It defines how the vagrant environment is set up, commands to be run:
+4. `Vagrantfile` is provided - to use it, Vagrant must be [installed](https://www.vagrantup.com/docs/installation/). Vagrantfile defines how the vagrant environment is set up, commands to be run:
 
     `$ vagrant up`    // sets up the environment<br>
     `$ vagrant ssh`   // moves a user inside vagrant
     
-    Inside Vagrant navigate to the directory `/internal-server-error` and
-start the app:
+    Inside Vagrant navigate to the directory `/marketplace` and
+start the app with the following commands:
 
+    `$ cd /marketplace`<br>
     `$ npm start`
 
 5. Open on browser: `http://localhost:3000` to view the application. Admin-users login credentials can be found on `.env` file.
