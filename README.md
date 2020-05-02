@@ -2,12 +2,16 @@
 
 ## Course project group information 
 
-This project/assignment was part of a WWW programming - course at Tampere University. It was done as a three person group and all the contributors are listed below.
+This group project was done for TIETA12 (WWW programming) course at Tampere University. Group members are listed below.
 
 ### Internal Server Error
 Henri Hakkarainen, henri.hakkarainen@tuni.fi<br>
 Antti Pessa, antti.pessa@tuni.fi<br>
 Niki Väänänen, niki.vaananen@tuni.fi
+
+We created a single page application for a imaginary marketplace using MERN stack and a REST API backend.
+
+This site is now deployed to [Heroku](https://restful-marketplace.herokuapp.com/) by [Antti Pessa](https://github.com/anttipessa).
 
 ## Introduction to assignment
 
